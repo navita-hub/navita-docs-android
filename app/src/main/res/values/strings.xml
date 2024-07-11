@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Navita Docs</string>
+    <string name="company_name">Navita</string>
+
+    <!-- Default texts -->
+    <string name="top_button_default_text">Top Button</string>
+    <string name="bottom_button_default_text">Bottom Button</string>
+    <string name="search_text_field_defaut">Search Text Fild</string>
+    <string name="search_app_text_field">Buscar Apps</string>
+</resources>
